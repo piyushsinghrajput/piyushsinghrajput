@@ -6,7 +6,7 @@
 codechef:-https://www.codechef.com/users/piyushsingh02<br>
 leetcode:-https://leetcode.com/u/piyushsinghrajputt/<br>
 linkedin:-https://www.linkedin.com/in/piyush-raj-a74a03193/<br>
-https://iconduck.com/icons/77010/instagramInstagram:-https://www.instagram.com/piyushsinghrajputt/
+https://iconduck.com/icons/77010/instagram Instagram:-https://www.instagram.com/piyushsinghrajputt/
                     
 
 
