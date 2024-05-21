@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @piyushsinghrajput
-- 👀 I’m interested in every type of technological work,
-- 🌱 I’m currently learning computer science and engineering
-- 💞️ I’m looking to collaborate on programming languages at innovative level.
-- 📫 How to reach me
-                    instagram:-https://www.instagram.com/piyushsinghrajputt/
-                    twitter:-https://twitter.com/p_s_r_02
-                    linkedin:-https://in.linkedin.com/in/piyush-singh-rajput-a74a03193
+- 👋 Hi, I’m @piyushsinghrajput<br>
+- 👀 I’m interested in every type of technological work,<br>
+- 🌱 I’m currently learning computer science and engineering<br>
+- 💞️ I’m looking to collaborate on programming languages at innovative level.<br>
+- 📫 How to reach me<br>
+codechef:-https://www.codechef.com/users/piyushsingh02<br>
+leetcode:-https://leetcode.com/u/piyushsinghrajputt/<br>
+linkedin:-https://www.linkedin.com/in/piyush-raj-a74a03193/<br>
+Instagram:-https://www.instagram.com/piyushsinghrajputt/
                     
 
 
