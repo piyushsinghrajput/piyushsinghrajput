@@ -5,7 +5,7 @@
 - 📫 How to reach me<br>
 codechef:-https://www.codechef.com/users/piyushsingh02<br>
 leetcode:-https://leetcode.com/u/piyushsinghrajputt/<br>
-linkedin:-https://www.linkedin.com/in/piyush-raj-a74a03193/<br>
+linkedin:-https://www.linkedin.com/in/piyushsinghrajputt/<br>
 Instagram:-https://www.instagram.com/piyushsinghrajputt/
                     
 
